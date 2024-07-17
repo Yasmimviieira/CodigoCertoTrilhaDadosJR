@@ -1,6 +1,6 @@
 # CodigoCertoTrilhaDadosJR
 
-Neste desafio do Código Certo para Trilha de Dados Jr, foi proposto o seginte desafio.
+Neste desafio do Código Certo para Trilha de Dados Jr, foi proposto o seguinte análise.
 
 Análise de Dados: Vendas de Cursos Online
 
@@ -39,7 +39,7 @@ ID,Nome do Curso,Quantidade de Vendas,Preço Unitário,Data
 * Preço Unitário: Preço unitário do curso.
 * Data: Data da venda do curso.
   
-E solicitado extrair os seguintes insights:
+E foi solicitado extrair os seguintes insights:
 
 Calcular a receita total gerada pela venda dos cursos.
 Identificar o curso com o maior número de vendas.
