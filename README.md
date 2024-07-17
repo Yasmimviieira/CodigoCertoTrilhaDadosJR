@@ -41,9 +41,9 @@ ID,Nome do Curso,Quantidade de Vendas,Preço Unitário,Data
   
 E foi solicitado extrair os seguintes insights:
 
-Calcular a receita total gerada pela venda dos cursos.
-Identificar o curso com o maior número de vendas.
-Visualizar a distribuição das vendas ao longo do tempo através de gráficos.
+1. Calcular a receita total gerada pela venda dos cursos.
+2. Identificar o curso com o maior número de vendas.
+3. Visualizar a distribuição das vendas ao longo do tempo através de gráficos.
 
 
 Aprimorei o base de dados, adicionando uma coluna de Mes a partir da coluna de Data, com o objetivo de verificar o total de vendas por mês de um ano inteiro.
