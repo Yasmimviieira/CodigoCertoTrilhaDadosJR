@@ -1,6 +1,6 @@
 # CodigoCertoTrilhaDadosJR
 
-Neste desafio do Código Certo para Trilha de Dados Jr, foi proposto o seguinte análise.
+Neste desafio do Código Certo para Trilha de Dados Jr, foi proposto a seguinte análise.
 
 Análise de Dados: Vendas de Cursos Online
 
