@@ -48,4 +48,4 @@ E foi solicitado extrair os seguintes insights:
 
 Aprimorei o base de dados, adicionando uma coluna de Mes a partir da coluna de Data, com o objetivo de verificar o total de vendas por mês de um ano inteiro.
 
-E deixei dois gráficos um para a análise por dia e outra apra o mês.
+E deixei dois gráficos um para a análise por dia e outro para a análise por mês.
